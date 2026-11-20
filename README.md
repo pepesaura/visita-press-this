@@ -1,2 +1,2 @@
 # visita-press-this
-el último archivo del plugin
+descarga la última versión y súbela a /wp-content/plugins/press-this/build
